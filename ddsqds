@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-    <version>2.0.0.0</version>
-    <url>https://github.com/EstebanG4ADev/Download/raw/main/sFAJ7HORTyITDSK.exe</url>
-    <mandatory>false</mandatory>
-</item>
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>3.0.0.0</version> 
+        <url>https://github.com/EstebanG4ADev/Download/raw/main/sFAJ7HORTyITDSK.exe</url>
+        <filePath>./Test.exe</filePath>
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
